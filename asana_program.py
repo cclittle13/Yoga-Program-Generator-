@@ -4,7 +4,8 @@ yoga_poses = {
 	"downwardfacingdog_pose": 2, 
 	"ragdoll_pose": 2}, 
 	"SunA": {
-	"plank": 1
+	"high to mid plank": 1,
+	"updog": 2
 
 	}}
 
