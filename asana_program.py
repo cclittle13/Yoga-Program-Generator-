@@ -1,8 +1,10 @@
 import json
 with open("yoga_asanas_json.json") as json_data:
     read_file = json_data.read()
-    for line in read_file:
-        print line
+    print read_file
+
+
+
 # data= []
 # with open('yoga_asanas_json.json', 'r') as f:
 #     for line in f:
