@@ -6,7 +6,7 @@ import random
     #print number (to show the number for debugging purposes)
     print (myName + ' I am thinking of a number between 1 and 100.')
     my_list = []
-    while guessesTaken < 0
+    while guessesTaken < 10
         
         print('Take a guess.')
         guess = input()
